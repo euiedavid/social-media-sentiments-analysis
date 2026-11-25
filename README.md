@@ -118,7 +118,7 @@ The project follows an exploratory data analysis workflow:
 
 - Likes, retweets, and total engagement exhibited extremely strong positive correlations. However, total engagement is derived from likes and retweets, so this relationship is partly mathematical.
 
-- The dataset contained 685 unique users, with 96.06% contributing only one post.
+- The dataset contained 670 unique users, with 94.18% contributing only one post.
 
 - The USA contributed the most posts (184), followed by the UK (140) and Canada (132).
 
