@@ -1,6 +1,6 @@
 # Social Media Sentiment and Engagement Analysis
 
-# Project Overview
+## Project Overview
 
 This project examines social media activity, sentiment distribution, and user engagement across various platforms, time periods, and countries. Through Python-based exploratory data analysis (EDA), the study investigates engagement patterns, compares platform performance, and identifies trends that provide insights into social media interactions and audience engagement.
 
@@ -8,7 +8,7 @@ The project uses the **Social Media Sentiments Analysis Dataset** by Kashish Par
 
 The cleaned dataset and findings from the analysis will serve as the foundation for developing an interactive Power BI dashboard, allowing for further exploration and visualization of social media engagement patterns.
 
-# Objectives
+## Objectives
 - Examine the distribution of sentiments across social media posts.
 - Compare engagement performance across platforms.
 - Identify temporal patterns in social media engagement.
@@ -16,7 +16,7 @@ The cleaned dataset and findings from the analysis will serve as the foundation 
 - Investigate engagement patterns across sentiments, users, and countries.
 - Examine platform distribution across different countries.
 
-# Analytical Questions
+## Analytical Questions
 
 The analysis addresses the following questions:
 
@@ -80,7 +80,7 @@ The analysis addresses the following questions:
 
 - Which social media platforms are most frequently represented in each country?
 
-# Tools and Technologies
+## Tools and Technologies
 
 - Python – Data analysis and manipulation
 
@@ -92,7 +92,7 @@ The analysis addresses the following questions:
 
 - Power BI – Interactive dashboard development
 
-# Analytical Approach
+## Analytical Approach
 
 The project follows an exploratory data analysis workflow:
 
@@ -108,7 +108,7 @@ The project follows an exploratory data analysis workflow:
 
 6. Visualization – Used charts and aggregated tables to communicate findings.
 
-# Key Findings:
+## Key Findings:
 
 - Instagram recorded the highest total engagement among the three platforms, with 17,077 engagements and an average of 67.77 per post.
 
