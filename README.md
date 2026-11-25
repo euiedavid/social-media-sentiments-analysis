@@ -6,7 +6,11 @@ This project examines social media activity, sentiment distribution, and user en
 
 The project uses the **Social Media Sentiments Analysis Dataset** by Kashish Parmar, sourced from [Kaggle](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data).
 
-The cleaned dataset and findings from the analysis will serve as the foundation for developing an interactive Power BI dashboard, allowing for further exploration and visualization of social media engagement patterns.
+The cleaned dataset and findings from the analysis were used to develop an interactive Power BI dashboard, providing a visual overview of social media engagement patterns and allowing users to explore the results across different dimensions.
+
+## Power BI Dashboard
+
+<img width="765" height="427" alt="image" src="https://github.com/user-attachments/assets/62865c4c-3e9f-4008-b80b-ab7927281e11" />
 
 ## Objectives
 - Examine the distribution of sentiments across social media posts.
@@ -68,7 +72,7 @@ The analysis addresses the following questions:
 
 - Which users record the highest average engagement?
 
-- How does engagement differ between users with one and two posts?
+- How does engagement vary among users with different posting frequencies?
 
 **7. Geographical Analysis**
 
@@ -108,13 +112,13 @@ The project follows an exploratory data analysis workflow:
 
 6. Visualization – Used charts and aggregated tables to communicate findings.
 
-## Key Findings:
+## Key Findings
 
 - Instagram recorded the highest total engagement among the three platforms, with 17,077 engagements and an average of 67.77 per post.
 
 - Engagement varied across time, with July recording the highest monthly average engagement at 74.40.
 
-- Contentment recorded the highest average engagement among the ten most frequent sentiments, at 78.11.
+- Among the ten most frequently recorded sentiments, Contentment had the highest average engagement at 78.11.
 
 - Likes, retweets, and total engagement exhibited extremely strong positive correlations. However, total engagement is derived from likes and retweets, so this relationship is partly mathematical.
 
@@ -125,3 +129,4 @@ The project follows an exploratory data analysis workflow:
 - Brazil recorded the highest average engagement among the ten countries with the most posts, at 79.29.
 
 - Instagram was the most frequently represented platform in the USA, UK, and Australia, while Twitter led in Canada and India.
+
